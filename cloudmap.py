@@ -6,7 +6,7 @@ import os
 import moviepy.editor as mpy
 
 mapURL = 'http://satellite.imd.gov.in/img/3Dasiasec_bt1.jpg'
-currDir = '/home/avz/Documents/py/insat/'
+currDir = '/home/shadowsaint/Projects/insat - clouds/insat-clouds/'
 fps = 2
 gifName = 'animation.gif'
 
